@@ -1,5 +1,7 @@
 package com.ljw.base;
 
+import java.util.concurrent.CompletableFuture;
+
 /**
  * @Description: 测试 toString
  * @Author: jianweil
